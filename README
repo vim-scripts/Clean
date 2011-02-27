@@ -1,0 +1,15 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3473
+
+!! Only for Vim without GUI.
+
+This light color scheme tries to remain coherent in different programming languages.
+
+It is specially optimized for HTML, CSS, JavaScript, PHP, C, Python, Ruby and XML.
+
+Note that the .Xdefaults/.Xresources configuration is included within the script.
+
+For better results, paste this config in your .Xdefaults/.Xresources file (don't forget to remove the quotes ;-) )...
+
+Enjoy!
+
+http://img713.imageshack.us/i/cleanu.png/
